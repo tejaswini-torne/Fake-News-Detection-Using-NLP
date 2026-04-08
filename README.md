@@ -65,14 +65,13 @@ The dataset contains:
 ## 🖥️ Output Screenshots
 
 ### ✅ Real News Prediction
-
-![Real News Output](output/Real_News.png)
+<img width="936" height="490" alt="Image" src="https://github.com/user-attachments/assets/26729de5-202e-440f-b67b-7d026303dec6" />
 
 ---
 
 ### ❌ Fake News Prediction
 
-![Fake News Output](output/Fake_News.png)
+<img width="902" height="453" alt="Image" src="https://github.com/user-attachments/assets/8f363492-15e1-456b-9f00-a875ca6ba839" />
 
 ---
 
